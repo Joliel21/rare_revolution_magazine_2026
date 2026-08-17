@@ -1,0 +1,34 @@
+{
+  "schemaVersion": "3.0.0",
+  "id": "rare-revolution",
+  "name": "RARE Revolution Magazine",
+  "status": "active",
+  "defaultMagazine": "rrm-content",
+  "defaultBrandingProfile": "default",
+  "brandingProfiles": [
+    {
+      "id": "default",
+      "label": "Default",
+      "path": "branding-profiles/default.json"
+    }
+  ],
+  "assetSources": {},
+  "magazines": [
+    {
+      "id": "rrm-content",
+      "title": "RARE Revolution Magazine",
+      "status": "published",
+      "path": "magazines/rrm-content/"
+    }
+  ],
+  "contentSource": {
+    "type": "github",
+    "mode": "raw",
+    "owner": "Joliel21",
+    "repository": "rare_revolution_magazine_2026",
+    "branch": "main",
+    "organizationsRoot": "organizations",
+    "organizationBaseUrl": "",
+    "organizationContentBaseUrl": "https://raw.githubusercontent.com/Joliel21/rare_revolution_magazine_2026/main/organizations/"
+  }
+}
