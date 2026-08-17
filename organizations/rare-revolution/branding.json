@@ -1,0 +1,64 @@
+{
+  "schemaVersion": "3.0.0",
+  "publicationName": "RARE Revolution Magazine",
+  "shortName": "RARE Revolution",
+  "browserTitle": "RARE Revolution Magazine",
+  "publisherName": "RARE Revolution Magazine",
+  "logoUrl": "",
+  "logoLightUrl": "",
+  "logoDarkUrl": "",
+  "logoAlt": "RARE Revolution Magazine",
+  "faviconUrl": "",
+  "introLogoUrl": "",
+  "backgroundImageUrl": "",
+  "backgroundVideoUrl": "",
+  "colors": {
+    "primary": "#202020",
+    "secondary": "#D9D9D9",
+    "accent": "#6B7280",
+    "accentLight": "#F2F2F2",
+    "surface": "#FFFFFF",
+    "ink": "#202020",
+    "border": "#D9D9D9",
+    "hover": "#333333",
+    "readerBackground": "#E5E5E5"
+  },
+  "fonts": {
+    "heading": "Georgia",
+    "body": "Georgia",
+    "interface": "Arial",
+    "googleFontsUrl": ""
+  },
+  "social": {
+    "website": "https://rarerevolutionmagazine.com/",
+    "instagram": "",
+    "facebook": "",
+    "linkedin": "",
+    "youtube": "",
+    "x": ""
+  },
+  "share": {
+    "publicMagazineUrl": "",
+    "publicAssetUrl": "",
+    "authorName": "",
+    "defaultDescription": "Read this article in the magazine.",
+    "fallbackImageUrl": ""
+  },
+  "cover": {
+    "mode": "generated",
+    "imageUrl": "",
+    "backCoverImageUrl": "",
+    "brandLine1": "",
+    "brandLine2": "",
+    "logoUrl": "",
+    "logoAlt": "RARE Revolution Magazine"
+  },
+  "coBranding": {
+    "enabled": false,
+    "label": "In partnership with",
+    "name": "",
+    "logoUrl": "",
+    "logoAlt": "",
+    "website": ""
+  }
+}
