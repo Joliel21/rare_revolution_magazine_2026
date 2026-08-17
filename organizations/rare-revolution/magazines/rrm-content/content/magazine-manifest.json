@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "2.0.0",
+  "issueId": "rrm-content",
+  "pageTypes": [
+    "article",
+    "page",
+    "front-matter",
+    "chapter-opener",
+    "ad",
+    "sponsor",
+    "video",
+    "podcast",
+    "media-page",
+    "share",
+    "custom",
+    "inside-back-cover",
+    "back-matter",
+    "sign-up",
+    "button",
+    "link"
+  ],
+  "rules": {
+    "preserveReaderVisuals": true,
+    "allowClickableItems": true,
+    "allowMediaEmbeds": true,
+    "allowAnalyticsMetadata": true,
+    "allowBackMatterPages": true
+  },
+  "navigationMap": "content/navigation-map.json",
+  "backMatterPages": [],
+  "placementRules": [],
+  "overrides": []
+}
