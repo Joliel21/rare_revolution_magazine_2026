@@ -1,0 +1,28 @@
+{
+  "schemaVersion": "3.0.0",
+  "id": "rrm-content",
+  "title": "RARE Revolution Magazine",
+  "issueNumber": "",
+  "publicationDate": "",
+  "spineText": "RARE Revolution Magazine",
+  "status": "published",
+  "brandingProfile": "default",
+  "cover": {
+    "title": "RARE Revolution Magazine",
+    "volume": "",
+    "imageUrl": ""
+  },
+  "backCover": {
+    "imageUrl": "",
+    "imageAlt": ""
+  },
+  "background": {
+    "image": "",
+    "video": ""
+  },
+  "paths": {
+    "content": "content/",
+    "assets": "assets/",
+    "share": "share/"
+  }
+}
