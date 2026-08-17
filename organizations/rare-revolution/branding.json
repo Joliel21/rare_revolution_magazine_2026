@@ -14,13 +14,13 @@
   "backgroundVideoUrl": "",
   "colors": {
     "primary": "#202020",
-    "secondary": "#D9D9D9",
-    "accent": "#6B7280",
-    "accentLight": "#F2F2F2",
+    "secondary": "#57C6D1",
+    "accent": "#57C6D1",
+    "accentLight": "#DDF4F6",
     "surface": "#FFFFFF",
     "ink": "#202020",
-    "border": "#D9D9D9",
-    "hover": "#333333",
+    "border": "#B9E5E9",
+    "hover": "#469EA7",
     "readerBackground": "#E5E5E5"
   },
   "fonts": {
