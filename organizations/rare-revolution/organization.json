@@ -28,7 +28,7 @@
     "repository": "rare_revolution_magazine_2026",
     "branch": "main",
     "organizationsRoot": "organizations",
-    "organizationBaseUrl": "",
+    "organizationBaseUrl": "https://raw.githubusercontent.com/Joliel21/rare_revolution_magazine_2026/main/organizations/rare-revolution/",
     "organizationContentBaseUrl": "https://raw.githubusercontent.com/Joliel21/rare_revolution_magazine_2026/main/organizations/"
   }
 }
