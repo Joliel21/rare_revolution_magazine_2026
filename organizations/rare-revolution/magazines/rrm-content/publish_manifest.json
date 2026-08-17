@@ -1,0 +1,19 @@
+{
+  "version": "2.0.0",
+  "runtime": {
+    "background": "",
+    "brandingEnabled": true,
+    "logoLight": "",
+    "logoDark": "",
+    "backgroundVideo": ""
+  },
+  "publication": {
+    "title": "RARE Revolution Magazine",
+    "subtitle": "",
+    "displayTitle": "RARE Revolution Magazine"
+  },
+  "music": {
+    "enabled": false,
+    "tracks": []
+  }
+}
