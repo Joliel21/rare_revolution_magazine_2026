@@ -4,7 +4,7 @@
   "shortName": "RARE Revolution",
   "browserTitle": "RARE Revolution Magazine",
   "publisherName": "RARE Revolution Magazine",
-  "logoUrl": "",
+  "logoUrl": "https://rarerevolutionmagazine.com/wp-content/themes/rare_revolution/assets/img/rare-revolution-trademark-logo.png",
   "logoLightUrl": "",
   "logoDarkUrl": "",
   "logoAlt": "RARE Revolution Magazine",
@@ -50,7 +50,7 @@
     "backCoverImageUrl": "",
     "brandLine1": "",
     "brandLine2": "",
-    "logoUrl": "",
+    "logoUrl": "https://rarerevolutionmagazine.com/wp-content/themes/rare_revolution/assets/img/rare-revolution-trademark-logo.png",
     "logoAlt": "RARE Revolution Magazine"
   },
   "coBranding": {
